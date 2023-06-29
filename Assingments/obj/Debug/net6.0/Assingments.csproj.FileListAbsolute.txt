@@ -1,0 +1,15 @@
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.csproj.AssemblyReference.cache
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.AssemblyInfoInputs.cache
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.AssemblyInfo.cs
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.csproj.CoreCompileInputs.cache
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\bin\Debug\net6.0\Assingments.exe
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\bin\Debug\net6.0\Assingments.deps.json
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\bin\Debug\net6.0\Assingments.runtimeconfig.json
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\bin\Debug\net6.0\Assingments.dll
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\bin\Debug\net6.0\Assingments.pdb
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.dll
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\refint\Assingments.dll
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.pdb
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\Assingments.genruntimeconfig.cache
+C:\Akhilesh\Learning C#\Assingments\Assingments\Assingments\obj\Debug\net6.0\ref\Assingments.dll
